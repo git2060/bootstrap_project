@@ -1,0 +1,46 @@
+.carosal_img{
+     height: 400px;
+     width: 400px;
+}
+
+.card_hei{
+     height: 400px;
+}
+
+.card_margin{
+     margin: 20px;
+}
+
+.car_hei{
+     height: 100px;
+     width: 50px;
+}
+
+
+
+.btn_sgin {
+     position: absolute;
+     margin: 595px;
+   } 
+
+.btn_sgup {
+     position: absolute;
+     margin: 660px;
+   }   
+
+.checked {
+color: orange;
+}
+
+#price{
+     display: flex;
+     justify-content: center;
+}
+    
+#im{
+     width: 20px;
+     height: 05px;
+}
+
+
+
